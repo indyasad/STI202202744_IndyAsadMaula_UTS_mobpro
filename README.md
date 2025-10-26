@@ -1,16 +1,13 @@
-# sti202202744_indyasadmaula_uts_mobpro
+Judul Aplikasi: My Event Planner
+Nama: Indy As'ad Maula
+NIM: STI202202744
 
-A new Flutter project.
+Fitur:
+1. Daftar Event (Home) — Menampilkan daftar event, setiap item memiliki menu edit/hapus.
+2. Tambah Event — Form dengan TextField, DatePicker, TimePicker, Dropdown kategori. Validasi singkat dan pemberitahuan SnackBar saat berhasil.
+3. Media — Fitur untuk mengambil foto event (camera) dan memutar video promo (video_player).
+4. Penyimpanan — Event disimpan di file events.json sehingga persist setelah app ditutup.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Instruksi menjalankan:
+- flutter pub get
+- flutter run
